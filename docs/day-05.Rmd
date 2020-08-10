@@ -86,12 +86,6 @@ USe the `dplyr` verbs to report the **5** states with the worst current deaths/c
 
 ```
 
-# Assignment:
-
-- Complete the Rmd
-- Change the author name
-- knit your file
-- Submit the Rmd and HTML file to the Guachospace dropbox
 
 # END
 
