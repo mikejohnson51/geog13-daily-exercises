@@ -69,7 +69,7 @@ Use `dplyr` verbs to create a data.frame of the **5** states with the _most_ cas
 
 Use the `dplyr` verbs to report the **5** counties with the _worst_ current death/cases ratio: (e.g.$100* (deaths/cases)$)
 
-(**Hint:** `filter`, `mutate`, `arrange`, `slice`)
+(**Hint:** `filter`, `mutate`, `arrange`)
 
 ```{r}
 
