@@ -47,7 +47,7 @@ to print the top 5 columns of the raw covid `object`
 
 ## Question 1: 
 
-Use `dplyr` verbs to tell create a data.frame of the **5** counties with the most cases current cases. Remember, the cases and deaths stored are cumulative, so you only need to deal with the data for the most current (`max`) date.
+Use `dplyr` verbs to  create a data.frame of the **5** counties with the most current cases. Remember, the cases and deaths are cumulative, so you only need to deal with the data for the most current (`max`) date.
 
 (**Hint:** `filter`, `arrange`)
 
@@ -57,7 +57,7 @@ Use `dplyr` verbs to tell create a data.frame of the **5** counties with the mos
 
 ## Question 2: 
 
-Use `dplyr` verbs to tell create a data.frame of the **5** states with the _most_ cases current cases. 
+Use `dplyr` verbs to create a data.frame of the **5** states with the _most_ cases current cases. 
 
 (**Hint:** `filter`, `group_by`, `summarize`, `arrange`)
 
@@ -67,7 +67,7 @@ Use `dplyr` verbs to tell create a data.frame of the **5** states with the _most
 
 ## Question 3: 
 
-Use the `dplyr` verbs to report the  **5** counties with the _worst_ current death/cases ratio: (e.g.$100* (deaths/cases)$)
+Use the `dplyr` verbs to report the **5** counties with the _worst_ current death/cases ratio: (e.g.$100* (deaths/cases)$)
 
 (**Hint:** `filter`, `mutate`, `arrange`, `slice`)
 
@@ -78,7 +78,7 @@ Use the `dplyr` verbs to report the  **5** counties with the _worst_ current dea
 
 ## Question 4: 
 
-USe the `dplyr` verbs to report the **5** states with the worst current deaths/cases ratio.
+Use the `dplyr` verbs to report the **5** states with the _worst_ current death/case ratio.
 
 (**Hint:** `filter`, `group_by`, `summarize`, `mutate`, `arrange`)
 
