@@ -16,7 +16,7 @@ We are going to practice some data wrangling skills using a real-world dataset a
 
 > "We are providing two sets of data with cumulative counts of coronavirus cases and deaths: one with our most current numbers for each geography and another with historical data showing the tally for each day for each geography ... the historical files are the final counts at the end of each day ... The historical and live data are released in three files, one for each of these geographic levels: U.S., states and counties."
 
-For this lab we will use the historic, county level data which is stored as an updating CSV at this URL:
+For this lab we will use the historic, country level data which is stored as an updating CSV at this URL:
 
 
 ```{r, eval = FALSE}
